@@ -4,13 +4,12 @@
 
 main() {
 
-	char car;
+	
 
-		printf("ESSCRIBA  CARACTER: \n");
+		printf("MI TERCER CAMBIO \n");
 
-		car=getchar();
 		
-		printf("\nEl caracter introducido es %c.\n, car ");
+
 		
 	
 
